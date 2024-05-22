@@ -1,4 +1,6 @@
 ## Hi there 👋
+ Мой стэк технологий:
+ JavaScript/PHP/Gulp/CSS/HTML
 
 <!--
 **bootleggers26/bootleggers26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

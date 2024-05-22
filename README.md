@@ -1,18 +1,16 @@
-## Hi there 👋
- Мой стэк технологий:
- JavaScript/PHP/Gulp/CSS/HTML
+# Hi there
 
-<!--
-**bootleggers26/bootleggers26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Михаил Черников, приятно познакомится. В 2022 я решил сменить род деятельности и для этого я выбрал направление frontend. Я занимаюсь обучением самостоятельно и сформироввал свою методику обучения.
 
-Here are some ideas to get you started:
+Направления которые я изучаю в данный момент:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- JavaScript
+- HTML
+- CSS
+- SASS
+- GIT/GITHUB
+- PHP
+
+---

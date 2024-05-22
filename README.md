@@ -6,12 +6,12 @@
 
 ---
 
-`- JavaScript
+- JavaScript
 - HTML
 - CSS
 - SASS
 - GIT/GITHUB
-- PHP`
+- PHP
 
 ---
 

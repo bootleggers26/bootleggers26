@@ -17,7 +17,7 @@
 
 ### Мой стэк технологий:
 
-`![JABASCRIPT](/pictures/javascript_logo_icon_145155.png)![HTML](/pictures/html5-01_icon-icons.com_50875.png)![CSS](/pictures/css3-01_icon-icons.com_50918.png)![GIT](/pictures/git_original_wordmark_logo_icon_146510.png)![GITHUB](/pictures//github_original_wordmark_logo_icon_146506.png)![SASS](/pictures/sass_alt_logo_icon_144910.png)`
+``![JABASCRIPT](/pictures/javascript_logo_icon_145155.png)![HTML](/pictures/html5-01_icon-icons.com_50875.png)![CSS](/pictures/css3-01_icon-icons.com_50918.png)![GIT](/pictures/git_original_wordmark_logo_icon_146510.png)![GITHUB](/pictures//github_original_wordmark_logo_icon_146506.png)![SASS](/pictures/sass_alt_logo_icon_144910.png)``
 
 ### Мои социальные сети:
 
